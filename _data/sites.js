@@ -1,5 +1,5 @@
 module.exports = {
-	netlify: {
+	spaceninja: {
 		description: "Scott's Websites",
 		options: {
 			frequency: 60 * 24, // 24 hours
